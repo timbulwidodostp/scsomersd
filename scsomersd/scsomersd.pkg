@@ -1,4 +1,37 @@
-D 'logtest': Tests significance of a predictor in logistic models Use logtest With STATA 19
+D 'scsomersd': Rank statistics for scenario comparisons Use scsomersd With STATA 19
 D
-F logtest.ado
-F logtest.sthlp
+F _bcsf_bisect.mata
+F _bcsf_bracketing.mata
+F _bcsf_regula.mata
+F _bcsf_ridders.mata
+F _blncdtree.mata
+F _somdtransf.mata
+F _u2jackpseud.mata
+F _v2jackpseud.mata
+F blncdtree.mata
+F cendif.ado
+F cendif.sthlp
+F censlope.ado
+F censlope.sthlp
+F censlope_iteration.sthlp
+F expgen.ado
+F expgen.sthlp
+F lexpgen.ado
+F lexpgen.sthlp
+F lsomersd.mlib
+F mf_bcsf_bracketing.sthlp
+F mf_blncdtree.sthlp
+F mf_somdtransf.sthlp
+F mf_u2jackpseud.sthlp
+F sccendif.ado
+F sccendif.sthlp
+F sccenslope.ado
+F sccenslope.sthlp
+F scsomersd.ado
+F scsomersd.sthlp
+F somers_p.ado
+F somersd.ado
+F somersd.sthlp
+F somersd_mata.sthlp
+F tidot.mata
+F tidottree.mata
