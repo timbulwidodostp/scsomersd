@@ -2,4 +2,4 @@
 1
 2
 3
-p logtest Tests significance of a predictor in logistic models Use logtest With STATA 19
+p scsomersd Rank statistics for scenario comparisons Use scsomersd With STATA 19
