@@ -1,0 +1,4 @@
+D 'logtest': Tests significance of a predictor in logistic models Use logtest With STATA 19
+D
+F logtest.ado
+F logtest.sthlp
