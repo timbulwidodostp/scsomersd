@@ -1,6 +1,8 @@
 # scsomersd
 Rank statistics for scenario comparisons Use scsomersd With STATA 19
 
+https://www.youtube.com/watch?v=QjIlM8PTzbk
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
